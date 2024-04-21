@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Entrevistas</string>
+    <string name="tomarfoto">Tomar foto</string>
+    <string name="descripcion">Descripción de la entrevista</string>
+    <string name="periodista">periodista</string>
+    <string name="fecha">Fecha</string>
+    <string name="Guardar">Guardar</string>
+    <string name="entrevistas">Historial</string>
+    <string name="historial">Historial</string>
+    <string name="audio">audio</string>
+    <string name="lista">Historial de entrevistas</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="grabaraudio">Iniciar grabación de audio</string>
+    <string name="iniciaraudio">Iniciar</string>
+    <string name="deteneraudio">Detener</string>
+</resources>
